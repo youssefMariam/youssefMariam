@@ -1,61 +1,85 @@
-Hi, I'm Youssef👋
+# Hi, I'm **Youssef Mariam** 👋
 
-I'm a Mobile & Web Developer working on scalable, user-focused applications.
-I enjoy building real-world products, learning new technologies, and improving code quality through clean architecture and best practices.
+**Mobile & Web Developer | React Native • React • TypeScript**
 
-🔭 I’m currently working on: Mobile & web applications using React Native and React
+I build scalable mobile and web applications with clean architecture and strong UX.
+I enjoy solving real problems, integrating APIs, and learning new technologies every day.
+I’m currently focused on improving my backend skills and moving towards AI engineering.
 
-🌱 I’m currently learning: Backend systems, APIs, and AI engineering
+---
 
-👯 I’m looking to collaborate on: Mobile apps, web platforms, and open-source projects
+## 🚀 About Me
 
-💬 Ask me about: React Native, Expo, React, TypeScript, Firebase, APIs
+* 👨‍💻 I build **mobile apps with React Native + Expo**
+* 🌐 I build **web apps with React + Next.js**
+* 🔥 I use **TypeScript, Prisma, REST APIs, and modern UI libraries**
+* 📚 I’m learning **backend systems, APIs, and AI engineering**
 
-📫 How to reach me: youssofmariam123@gmail.com
+---
 
-⚡ Fun fact: I enjoy turning complex ideas into simple, usable products
+## 🧰 Tech Stack
 
-🛠️ Tech & Tools
+### **Languages**
 
-Languages
+* JavaScript
+* TypeScript
+  
+### **Mobile**
 
-JavaScript
+* React Native
+* Expo
+* NativeWind
+* React Navigation
 
-TypeScript
+### **Web**
 
-Python (basic)
+* React
+* Next.js
+* Tailwind CSS
+* MUI (Material UI)
 
-Mobile
+### **Backend & Services**
 
-React Native
+* Firebase
+* REST APIs
+* Prisma 
 
-Expo
+### **Tools**
 
-NativeWind
+* Git & GitHub
+* VS Code
+* Figma
 
-Web
+---
 
-React
+## 💬 Ask Me About
 
-Next.js
+* React Native + Expo
+* React + Next.js
+* Prisma & API integrations
+* Building real-world products
+* Clean architecture & code quality
 
-Tailwind CSS
+---
 
-Backend / Services
+## 📫 Contact
 
-Firebase
+📧 **[youssefmariam.dev@gmail.com](mailto:youssefmariam.dev@gmail.com)**
+📍 Lebanon
 
-REST APIs
+---
 
-Appwrite (learning)
+## 📈 GitHub Stats
 
-Tools
+![youssefMariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefMariam\&show_icons=true\&theme=default)
 
-Git & GitHub
+---
 
-Prisma
+## 🤝 Open to
 
-Figma
+* Collaborations
+* Mentorship
+* Freelance work
+* Internship or full-time opportunities
 
-VS Code
-
+Thanks for visiting — feel free to say hi! 👋
