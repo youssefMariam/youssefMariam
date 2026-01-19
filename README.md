@@ -2,19 +2,22 @@
 
 **Mobile & Web Developer | React Native • React • TypeScript**
 
-I build scalable mobile and web applications with clean architecture and strong UX.  
-I enjoy solving real problems, integrating APIs, and learning new technologies every day.  
-I’m currently focused on improving my backend skills and moving towards AI engineering.
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/youssef-mariam-7a3b4a249/)
+![Last Commit](https://img.shields.io/github/last-commit/youssefMariam/youssefMariam?label=Last%20Commit)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ---
 
-## 🛡️ Badges
-
-![GitHub followers](https://img.shields.io/github/followers/youssefMariam?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/youssefMariam?label=Stars&style=social)
-![GitHub repo count](https://img.shields.io/github/repo-size/youssefMariam?label=Repo%20Size)
-![Top Langs](https://img.shields.io/github/languages/top/youssefMariam?label=Top%20Languages)
-![Last Commit](https://img.shields.io/github/last-commit/youssefMariam/youssefMariam?label=Last%20Commit)
+I build scalable mobile and web applications with clean architecture and strong UX.  
+I enjoy solving real problems, integrating APIs, and learning new technologies every day.  
+I’m currently focused on improving my backend skills and moving towards AI engineering.
 
 ---
 
